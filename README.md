@@ -5,7 +5,7 @@
 A multi-model classification web application that predicts fetal health from Cardiotocogram (CTG) exam features.
 
 **🔗 Live App:** [fetal-health-classifier-tanay.streamlit.app](https://fetal-health-classifier-tanay.streamlit.app/)
-**📦 GitHub Repository:** [T-Shandilya-2025ac05260/fetal-health-classifier](https://github.com/T-Shandilya-2025ac05260/fetal-health-classifier)
+**📦 GitHub Repository:** [tanay-shandilya/fatalHealthClassifierModel](https://github.com/tanay-shandilya/fatalHealthClassifierModel)
 
 ---
 
