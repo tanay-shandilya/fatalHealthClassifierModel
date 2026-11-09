@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fetal-health-classifier-tanay.streamlit.app/)
 
-A multi-model classification web application that predicts fetal health from Cardiotocogram (CTG) exam features. Built as an end-to-end ML deployment exercise for BITS Pilani M.Tech AIML — Machine Learning Assignment 2.
+A multi-model classification web application that predicts fetal health from Cardiotocogram (CTG) exam features.
 
 **🔗 Live App:** [fetal-health-classifier-tanay.streamlit.app](https://fetal-health-classifier-tanay.streamlit.app/)
 **📦 GitHub Repository:** [T-Shandilya-2025ac05260/fetal-health-classifier](https://github.com/T-Shandilya-2025ac05260/fetal-health-classifier)
@@ -135,6 +135,3 @@ Open `train_models.ipynb` in Jupyter and run all cells. The notebook:
 ## Author
 
 **Tanay Shandilya**
-BITS ID: 2025AC05260
-BITS Pilani WILP — M.Tech (AIML)
-Machine Learning Course — Assignment 2 (2025–2026)

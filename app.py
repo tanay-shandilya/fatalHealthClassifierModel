@@ -176,8 +176,6 @@ with st.sidebar:
             unsafe_allow_html=True
         )
     st.markdown("---")
-    st.caption("BITS Pilani M.Tech AIML · ML Assignment 2")
-    st.caption("BITS ID: 2025AC05260")
 
 # ============================================================
 # UPLOAD
